@@ -16,7 +16,7 @@ In order to run the code, both the data and the dictionaries must be downloaded:
 * This link provides the sample data:
 [link](https://www.dropbox.com/sh/bh7mhnstk393q7g/AADx6rPJt1hX_0lhMJB3AmoCa?dl=0)
 
-* This link contains the coupled dictionaries, that are utilized for the sparse decomposition.
+* This link contains the coupled dictionaries, that are utilized for the sparse decomposition:
 [link](https://www.dropbox.com/sh/fkvxjfor14k4hwu/AAB20Iz0LI84NBxCoK6V9cQca?dl=0)
 
 **Both the data and the dictionaries should be placed in the same folder**
