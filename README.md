@@ -7,7 +7,8 @@ This repository contains MATLAB codes and scripts designed for Denoising of Spec
 
 2.  Dependencies 
 
-In order to run the code, in this link [link](https://www.dropbox.com/sh/fkvxjfor14k4hwu/AAB20Iz0LI84NBxCoK6V9cQca?dl=0) you can download the both the data, and the Coupled Dictionaries that are utilized for our sparse decomposition. 
+In order to run the code, in this link [link](https://www.dropbox.com/sh/fkvxjfor14k4hwu/AAB20Iz0LI84NBxCoK6V9cQca?dl=0) you can download the Coupled Dictionaries that are utilized for our sparse decomposition. 
+In this link [link](https://www.dropbox.com/sh/bh7mhnstk393q7g/AADx6rPJt1hX_0lhMJB3AmoCa?dl=0) you can download the input data.
 
 3.  Execution
 
