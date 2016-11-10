@@ -1,5 +1,4 @@
-# Coupled Dictionary Learning 
-# for the Denoising of Galaxy Spectra
+# Coupled Dictionary Learning for the Denoising of Galaxy Spectra
 
 ### **Code for Denoising of Spectroscopic Data**
 
